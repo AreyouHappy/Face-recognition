@@ -10,4 +10,4 @@
 
 ## 메인폴더
 > face_dectection.py // detection 알고리즘
-> main.py // 실행파일
+main.py // 실행파일
