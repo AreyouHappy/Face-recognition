@@ -17,3 +17,4 @@ def Detection_haar(img_filename):
             cv2.rectangle(roi_color, (ex, ey), (ex + ew, ey + eh), (0, 255, 0), 2)
 
     return (img)
+
